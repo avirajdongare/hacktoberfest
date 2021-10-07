@@ -1,3 +1,8 @@
+#### Name: Aviraj Dongare (https://github.com/ajcogeek)
+ - Place: Mumbai, India
+ - Bio: Computer Science and Engineering (Second year Undergraduate) 
+ - GitHub: [Aviraj Dongare](https://github.com/ajcogeek)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
